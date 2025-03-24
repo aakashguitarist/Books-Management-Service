@@ -28,8 +28,8 @@ Ensure you have the following installed:
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-repo/book-management.git
-cd book-management
+git clone https://github.com/aakashguitarist/Books-Management-Service.git
+cd book-management-service
 ```
 
 ### Install Dependencies
